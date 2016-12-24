@@ -1,4 +1,4 @@
-package de.vitox.particle.one;
+package de.vitox.particle;
 
 import java.util.ArrayList;
 import java.util.Random;
